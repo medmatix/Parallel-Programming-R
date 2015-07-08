@@ -10,9 +10,10 @@ There are 3 main foci of the curriculum plan:
 5. Selected other Advanced R Packages, Techniques and Problems
 
 ##Background to Development of the Course 
-### Beowulf clusters
-### Raspberry PI 2 and  ARM6 processor
-### System and Development Software
+### - Beowulf clusters
+### - Raspberry PI 2 and  ARM6 processor
+### - System and Development Software
+
 
 ##Relationship to Data Science
 
