@@ -9,12 +9,15 @@ There are 3 main foci of the curriculum plan:
 4. In depth Problem-oriented Programming projects using some of the specific R packages reviewed.
 5. Selected other Advanced R Packages, Techniques and Problems
 
-##Background for Course Development
+##Background to Development of the Course 
+### Beowulf clusters
+### Raspberry PI 2 and  ARM6 processor
+### System and Development Software
 
 ##Relationship to Data Science
 
-##Content Details
+##Content Details Development
 
 ##Project Problems development
 
-##Didactic Resources Explored
+##Didactic Resources to Consider
