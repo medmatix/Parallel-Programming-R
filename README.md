@@ -4,16 +4,16 @@ This is the Repository for Development of a Planned Udemy course on Parallel pro
 ##Overview of the Course in Process
 There are 3 main foci of the curriculum plan:
 
-1. Motivation and background for parallel programming in R in the context of Data Science
+1 Motivation and background for parallel programming in R in the context of Data Science
 
-2. Building and configuring an inexpensive Beowulf type Computing Cluster based on ARM6 processor driven RaspberryPI 2 computers running an ARM6 opimized Debian Linux (Raspian).
+2 Building and configuring an inexpensive Beowulf type Computing Cluster based on ARM6 processor driven RaspberryPI 2 computers running an ARM6 opimized Debian Linux (Raspian).
 
-3. Survey of the general and R specific approaches to parallel computing on linux based systems. 
+3 Survey of the general and R specific approaches to parallel computing on linux based systems. 
 
-4. In depth Problem-oriented Programming projects using some of the specific R packages reviewed.
+4 In depth Problem-oriented Programming projects using some of the specific R packages reviewed.
 
-5. Selected other Advanced R Packages, Techniques and Problems
-6. 
+5 Selected other Advanced R Packages, Techniques and Problems
+
 
 ##Background to Development of the Course
 
