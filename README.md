@@ -20,7 +20,7 @@ There are 3 main foci of the curriculum plan:
 -  **Beowulf clusters**
 
 -  **Raspberry PI 2 and  ARM6 processor**
-  see http://crunches-data.apspot.com/project8.html for my own built cluster project
+  see http://crunches-data.appspot.com/project8.html for my own built cluster project
 
 -  **System and Development Software**
 
