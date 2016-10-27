@@ -1,6 +1,6 @@
 # Parallel-Programming-R
 This is the Repository for Development of a Planned Udemy course on Parallel programming with specific reference to R.
-
+see project web pages at http://medmatix.github.io/Parallel-Programming-R/ 
 ##Overview of the Course in Process
 There are 3 main foci of the curriculum plan:
 
